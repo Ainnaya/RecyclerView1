@@ -17,9 +17,9 @@ Aplikasi RecyclerView1 terdapat:
   - **NAMA LOKASI:** yang mendeskripsikan nama lokasi tiap foto yang terdapat disampingnya
   - **DESKRIPSI LOKASI:** yang terdapat dibawah nama lokasi dan ukuran fontnya lebih kecil yang berfungsi untuk informasi tambahan.
   
-Cara menggunakan aplikasi RecyclerView2 ini yaitu:
-  - Buka aplikasi RecyclerView2.
-  - Selanjutnya maka akan tampil aplikasi RecyclerView2 ini dengan tampilan grid tiap lokasinya
+Cara menggunakan aplikasi RecyclerView1 ini yaitu:
+  - Buka aplikasi RecyclerView1.
+  - Selanjutnya maka akan tampil aplikasi RecyclerView1 ini dengan tampilan list tiap lokasinya lengkap dengan foto, nama, dan deskripsi lokasi.
 
 Contoh gambar dari Aplikasi RecyclerView1:
 
