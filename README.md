@@ -16,6 +16,10 @@ Aplikasi RecyclerView1 terdapat:
   - **FOTO LOKASI:** yang berbentuk lingkaran menggunakan class RoundedBitmapDrawable
   - **NAMA LOKASI:** yang mendeskripsikan nama lokasi tiap foto yang terdapat disampingnya
   - **DESKRIPSI LOKASI:** yang terdapat dibawah nama lokasi dan ukuran fontnya lebih kecil yang berfungsi untuk informasi tambahan.
+  
+Cara menggunakan aplikasi RecyclerView2 ini yaitu:
+  - Buka aplikasi RecyclerView2.
+  - Selanjutnya maka akan tampil aplikasi RecyclerView2 ini dengan tampilan grid tiap lokasinya
 
 Contoh gambar dari Aplikasi RecyclerView1:
 
